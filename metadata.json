@@ -1,0 +1,5 @@
+{
+  "name": "Game Assistant",
+  "description": "A multi-game AI assistant for Go, Texas Hold'em, Guandan, Mahjong, and Xiangqi using Gemini to analyze boards and suggest moves.",
+  "requestFramePermissions": []
+}
